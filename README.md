@@ -4,36 +4,36 @@
 
 The Colorado Board of Elections requested that an election audit be preformed on a recent local congressional election. The Board of Elections tasked me to do the following: 
 
-    - Calculate the total number of votes cast
-    - Calculate the total number of votes each candidate received 
-    - Calculate the percentage of votes each candidate received
-    - Calculate the number of votes cast in each county and the percentage of votes each county cast
-    - Determine the winner of the election based on popular vote
+    1. Calculate the total number of votes cast
+    2. Calculate the total number of votes each candidate received 
+    3. Calculate the percentage of votes each candidate received
+    4. Calculate the number of votes cast in each county and the percentage of votes each county cast
+    5. Determine the winner of the election based on popular vote
 
 ## Election-Audit Results
 
-- How many votes were cast in this congressional election?
+- **How many votes were cast in this congressional election?**
 
     There were a total of 369,711 votes
 
-- Provide a brekadown of the number of votes and the percentage of total votes for each county in the precinct.
+- **Provide a brekadown of the number of votes and the percentage of total votes for each county in the precinct.**
 
     Arapahoe county had the smallest percentage of total votes at 6.7% (24,801)
     Jefferson county had 10.5% of the toal votes (38,855)
     Denver county had the largest percentage of the total votes at 73.8% (306,055)
     
 
-- Which county had the largest number of votes?
+- **Which county had the largest number of votes?**
 
     Denver county
 
-- Provide a brekadown of the number of votes and the percentage of the total votes each candidate recieved.
+- **Provide a brekadown of the number of votes and the percentage of the total votes each candidate recieved.**
 
     Raymon Anthony Doane had the least amount of votes with 3.1% (11,606)
     Charles Casper Stockham received 23.0% (85,213) of the votes
     Diana DeGette had the highest percentage of votes with 73.8% (272,892)
 
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
     Diana DeGette won the electiuon with a total winning vote count of 272,892, which was 73.8% of total votes.
 
